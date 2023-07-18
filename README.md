@@ -4,8 +4,7 @@ Hello! Shellularity here.
 
 Amateur developer, hoping to learn more.
 
-Musician. You can find my music page below.
-
+Musician.
 Fluent in python, amateur in Lua, hoping to learn C# / HTML / CSS / Java
 
 -~~~- (°▽°)/ -~~~-
