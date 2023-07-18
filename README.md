@@ -10,7 +10,7 @@ General area to store my projects and the sort.
 
 -~~~- ٩(ˊ〇ˋ*)و -~~~-
 
-Channels:
-[Music Channel](https://www.youtube.com/channel/UCQ2SmbeUjPvkVu94ogC_O2A)
-[Primary Channel](https://www.youtube.com/channel/UCOgzI4KaF3O99iKhaFuCxSw)
-[Development Channel](https://www.youtube.com/channel/UCHrDm3dY3RDdbYYbwpgplDg)
+Youtube Channels:
+[Music](https://www.youtube.com/channel/UCQ2SmbeUjPvkVu94ogC_O2A)
+[Primary](https://www.youtube.com/channel/UCOgzI4KaF3O99iKhaFuCxSw)
+[Development](https://www.youtube.com/channel/UCHrDm3dY3RDdbYYbwpgplDg)
