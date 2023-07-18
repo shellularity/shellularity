@@ -1,10 +1,14 @@
-	(＠´ー`)ﾉﾞ
+	(＠´ー`)ﾉﾞI'm new here! Please don't bully me, thank you! ♥️
 
 Hello! Shellularity here.
 
 Amateur developer, hoping to learn more.
+
 Musician. You can find my music page below.
+
 Fluent in python, amateur in Lua, hoping to learn C# / HTML / CSS / Java
+
+
 
 General area to store my projects and the sort. 
 
