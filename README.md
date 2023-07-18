@@ -3,7 +3,6 @@
 Hello! Shellularity here.
 
 Amateur developer, hoping to learn more.
-
 Musician.
 Fluent in python, amateur in Lua, hoping to learn C# / HTML / CSS / Java
 
