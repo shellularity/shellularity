@@ -8,7 +8,7 @@ Musician. You can find my music page below.
 
 Fluent in python, amateur in Lua, hoping to learn C# / HTML / CSS / Java
 
-
+-~~~- (°▽°)/ -~~~-
 
 General area to store my projects and the sort. 
 
